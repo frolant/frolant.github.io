@@ -1,0 +1,12 @@
+{
+  "name": "frolant.github.io",
+  "version": "0.0.1",
+  "description": "frolant business card",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "frolant",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
